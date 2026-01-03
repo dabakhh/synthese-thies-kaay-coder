@@ -1,6 +1,6 @@
 #  Projet d'Immersion Web - [Thies Kaay Ñu Coder]
 
-Ce projet a été réalisé dans le cadre d'une immersion intensive d'une semaine Chez Wommate Technology. L'objectif était de construire le site vitrine de l'événement en travaillant en équipe via Git/GitHub.
+Ce projet a été réalisé dans le cadre d'une immersion intensive d'une semaine Chez **Wommate Technology**. L'objectif était de construire le site vitrine de l'événement en travaillant en équipe via Git/GitHub.
 
 ##  Liens utiles
 - **Démo en ligne (Netlify) :** [https://thies-kaay-nu-coder.netlify.app/] (Visiter le site en ligne)
@@ -28,4 +28,4 @@ Au cours de ce projet, j'ai eu la responsabilité de plusieurs aspects clés du 
 - **Netlify** (Déploiement continu)
 
 ---
-*Projet réalisé avec passion lors de mon immersion pour renforcer mes compétences en développement Web et travail d'équipe.*
+*Projet réalisé avec passion lors de mon immersion chez Wommate Technology pour renforcer mes compétences en développement Web et travail d'équipe.*
